@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Coffee-Heaven/static/css/main.310f79ef.css",
+    "main.js": "/Coffee-Heaven/static/js/main.a0dca86d.js",
+    "static/media/home-bg.jpg": "/Coffee-Heaven/static/media/home-bg.6a90ab242a6fd5ffa0bd.jpg",
+    "static/media/gallery-2.webp": "/Coffee-Heaven/static/media/gallery-2.94026a18f31552a71605.webp",
+    "static/media/gallery-6.webp": "/Coffee-Heaven/static/media/gallery-6.d99d70ab4c971e1f01e1.webp",
+    "static/media/menu-4.png": "/Coffee-Heaven/static/media/menu-4.e61fa382f27f37edda05.png",
+    "static/media/our-team-4.jpg": "/Coffee-Heaven/static/media/our-team-4.d732ebd4fcb5a470a5df.jpg",
+    "static/media/our-team-3.jpg": "/Coffee-Heaven/static/media/our-team-3.d282820cbd1020ef778a.jpg",
+    "static/media/our-team-1.jpg": "/Coffee-Heaven/static/media/our-team-1.edc8e20ee9f26b7f3224.jpg",
+    "static/media/gallery-4.webp": "/Coffee-Heaven/static/media/gallery-4.d697451925d298f4b289.webp",
+    "static/media/our-team-6.jpg": "/Coffee-Heaven/static/media/our-team-6.5903d192c8c90a7dab68.jpg",
+    "static/media/menu-3.png": "/Coffee-Heaven/static/media/menu-3.60b28ed424ef3fda31a4.png",
+    "static/media/menu-6.png": "/Coffee-Heaven/static/media/menu-6.c019d6cee9d79177b081.png",
+    "static/media/our-team-5.jpg": "/Coffee-Heaven/static/media/our-team-5.92802343fba6c272967b.jpg",
+    "static/media/our-team-2.jpg": "/Coffee-Heaven/static/media/our-team-2.baafa4716c741ef7799d.jpg",
+    "static/media/menu-1.png": "/Coffee-Heaven/static/media/menu-1.eb2eb5cddb9285d7df48.png",
+    "static/media/menu-2.png": "/Coffee-Heaven/static/media/menu-2.137be0f1b76c8509e4bb.png",
+    "static/media/menu-5.png": "/Coffee-Heaven/static/media/menu-5.6cde316a9a5189b28a5b.png",
+    "static/media/gallery-3.webp": "/Coffee-Heaven/static/media/gallery-3.31c87d3cabdd96c65a9f.webp",
+    "static/media/gallery-1.webp": "/Coffee-Heaven/static/media/gallery-1.cc0cd8eff37b38d51516.webp",
+    "static/media/gallery-5.webp": "/Coffee-Heaven/static/media/gallery-5.0cbad865910d66e504ca.webp",
+    "static/media/sub.svg": "/Coffee-Heaven/static/media/sub.786eb9c5d15ef1ff1608a5ddf93c17a2.svg",
+    "static/media/contact-img.svg": "/Coffee-Heaven/static/media/contact-img.89690b668b285da9c4b560f0ac676c2d.svg",
+    "static/media/about-img.svg": "/Coffee-Heaven/static/media/about-img.7b0793e9616db51aaaf8a9b73239adef.svg",
+    "static/media/logo.png": "/Coffee-Heaven/static/media/logo.e4a5df030238b7180df0.png",
+    "index.html": "/Coffee-Heaven/index.html",
+    "main.310f79ef.css.map": "/Coffee-Heaven/static/css/main.310f79ef.css.map",
+    "main.a0dca86d.js.map": "/Coffee-Heaven/static/js/main.a0dca86d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.310f79ef.css",
+    "static/js/main.a0dca86d.js"
+  ]
+}
